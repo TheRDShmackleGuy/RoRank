@@ -1,0 +1,11 @@
+{
+  "name": "roblox-ranker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.17.0",
+    "dotenv": "^17.4.2",
+    "express": "^4.22.2",
+    "noblox.js": "^4.14.0"
+  }
+}
